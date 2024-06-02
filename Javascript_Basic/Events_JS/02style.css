@@ -1,0 +1,12 @@
+body{
+    background-color: #212121;
+    text-align: center;
+    color: white;
+}
+
+div{
+    height: 100px;
+    width: 500px;
+    border: 1px solid white;
+    margin: auto;
+}
